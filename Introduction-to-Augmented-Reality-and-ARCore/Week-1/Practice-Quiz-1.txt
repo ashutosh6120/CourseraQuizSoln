@@ -1,0 +1,21 @@
+Module 1 practice quiz
+
+
+1]  What was Ivan Sutherland’s contribution to immersive technology? 
+Ans::  Humankind’s first foray into immersive reality through a head-mounted display
+
+
+2]  What does the acronym “HMD” stand for?
+Ans:: Head-Mounted Display
+
+
+3]  Which unique components in smartphones are required to create accurate VR/AR?
+Ans::  Gyroscopes and cameras
+
+
+4]  Which of the following is a use case for AR?
+Ans:: All of the above
+
+
+5]  What is the biggest difference between VR and AR?
+Ans::  VR simulates an environment and AR brings information to your real world environment
