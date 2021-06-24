@@ -1,0 +1,21 @@
+Practice quiz test
+
+
+1]  When a user is _____ an object, that means it will stay positioned at that point, even when users or cameras are in motion.
+Ans:: Placing (sometimes this has been referred to as "anchoring")
+
+
+2]  What can “scaling” mean in the context of AR?
+Ans::  It describes the relative size of a given digital object
+
+
+3]  What is occlusion?
+Ans::  When one image or object blocks another
+
+
+4]  What is immersion?
+Ans::  The sense that AR objects belong in the real world
+
+
+5]  What is context awareness?
+Ans::  Tracking of the physical objects in a space and understanding their relationships to each other
