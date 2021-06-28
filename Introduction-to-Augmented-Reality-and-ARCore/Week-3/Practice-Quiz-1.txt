@@ -1,0 +1,22 @@
+Practice quiz
+
+
+1]   Why are Cloud Anchors important?
+Ans:: They enable shared cross-platform AR experiences between Android and iOS, and ensure that
+        digital objects stay where placed when the phone camera moves around the scene
+
+
+2] AR technology for mobile phones is currently capable of ideal performance in dark rooms
+Ans:: False
+
+
+3]  Distinct surface texture is important for providing...
+Ans:: Contrast needed to create feature points
+
+
+4]  What approximate percentage of the world’s smartphones run on Android?
+Ans::  85%
+
+
+5]  Which of the following is NOT a limitation to consider when developing smartphone AR:
+Ans::  How much phone battery the user has left
