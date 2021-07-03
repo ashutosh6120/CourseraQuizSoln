@@ -1,0 +1,21 @@
+practice quiz 
+
+
+1]  ARCore is able to detect some surfaces even in low light conditions.
+Ans:: True
+
+
+2]  What is pose?
+Ans:: The position and orientation of any object in relation to the world around it
+
+
+3]  Spatial mapping...
+Ans:: Creates a 3D map of the environment
+
+
+4]  When you have “placed” a virtual object and it remains at that point, this means it is:
+Ans:: Anchored
+
+
+5]  ARCore constantly learns from the environment as the phone moves around the world
+Ans:: Yes
