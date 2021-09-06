@@ -1,0 +1,16 @@
+The Data Link Layer
+
+
+
+1)  How many octets are there in a MAC address?
+Ans:  6
+
+
+
+2)  What address is used for Ethernet broadcasts?
+Ans:  FF:FF:FF:FF:FF:FF
+
+
+
+3)   What is a cyclical redundancy check?
+Ans:  A mathematical calculation used to ensure that all data arrived intact
