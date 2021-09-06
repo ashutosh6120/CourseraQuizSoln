@@ -1,0 +1,78 @@
+Networking Basics
+
+
+1)  When data can flow across a cable in both directions, this is known as _____ communication.
+Ans:  duplex
+
+
+
+2)  The transmission method that sends data to every device on a LAN is known as a _____ transmission.
+Ans:  broadcast
+
+
+
+3)  The technique that allows you to have multiple logical LANs operating on the same physical equipment is known as a _____.
+Ans:  VLAN
+
+
+
+4)  When an electrical pulse on one wire is accidentally detected on another nearby wire, this is known as _____.
+Ans:  crosstalk
+
+
+
+5)  TCP stands for _____
+Ans:  Transmission Control Protocol
+
+
+
+6)   What layer in the Transmission Control Protocol/Internet Protocol (TCP/IP) model is responsible for defining a way to interpret signals so network devices can communicate?
+Ans:  Data link
+
+
+
+7)  Which layer in the Transmission Control Protocol/Internet Protocol (TCP/IP) model is responsible for delivering data between two nodes?
+Ans:  
+
+
+
+8)   What type of cable communicates binary data by changing the voltage between two ranges?
+Ans:  Copper
+
+
+9)   You have installed a device at the physical layer. All of the systems you connect to this device will talk to each other at the same time. What have you installed?
+Ans:  Hub
+
+
+
+10)  A user logs on to a laptop and opens her email. What device will provide emails to the laptop?
+Ans:  
+
+
+
+11)  What process sends ones and zeroes across network cables?
+Ans:  Modulation
+
+
+
+12)  Select the device that will have the most network ports.
+Ans:  Switch
+
+
+
+13)  A communications closet has a device that contains 48 ports. The device's sole function is to provide the ports. What type of device is in the closet?
+Ans:  Patch panel
+
+
+
+14)  A user is operating Client A and sends a message to Client B. What is used to identify the node the transmission is meant for?
+Ans:  Media Access Control (MAC) address
+
+
+
+15)  What section in an ethernet frame will you find a Virtual Local Area Network (VLAN) header?
+Ans:  Ether type field
+
+
+16)  Where is the Start Frame Delimiter (SFD) found in an ethernet frame?
+Ans:  The last byte of the preamble
