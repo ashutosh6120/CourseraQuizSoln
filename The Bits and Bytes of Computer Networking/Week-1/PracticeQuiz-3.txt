@@ -1,0 +1,11 @@
+THE PHYSICAL LAYER
+
+
+
+1)  What is the type of modulation used by twisted pair cable computer networks known as?
+Ans:  Line coding
+
+
+
+2)  What's the difference between full and half duplex?
+Ans:  Full duplex allows communications in two directions at the same time; half duplex means that only one side can communicate at a time.
