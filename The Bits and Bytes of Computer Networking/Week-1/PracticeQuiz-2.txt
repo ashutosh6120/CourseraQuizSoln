@@ -1,0 +1,19 @@
+THE BASICS OF NETWORKING DEVICES
+
+NETWORKING DEVICES
+
+
+1)  Which of the following statements accurately describe the differences between a hub and a switch? Check all that apply.
+Ans:  A switch remembers which devices are connected on each interface, while a hub does not.
+      A hub is a physical layer device, and a switch is a data link layer device.
+      A hub causes larger collision domains.
+
+
+
+2)  What does LAN stand for?
+Ans:  Local area network
+
+
+
+3)  What's a router?
+Ans:  A device that knows how to forward data between independent networks
