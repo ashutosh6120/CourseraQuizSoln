@@ -1,0 +1,13 @@
+Subnetting
+
+
+1)  What does CIDR stand for?
+Ans:  Classless Inter-Domain Routing
+
+
+2)  Which of the following is a correct form of CIDR notation?
+Ans:  192.168.1.0/24
+
+
+3)  How many octets does a subnet mask have?
+Ans: 4
