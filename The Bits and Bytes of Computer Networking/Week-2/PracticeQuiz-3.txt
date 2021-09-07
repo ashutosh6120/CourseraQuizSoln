@@ -1,0 +1,15 @@
+Routing
+
+
+1)  Select examples of routing protocols. Check all that apply.
+Ans:  Border Gateway Protocol
+      Routing Information Protocol
+
+
+2)   Who is permitted to use non-routable address space?
+Ans:   Anyone
+
+
+3)   A typical routing table may contain which of the following? Check all that apply.
+Ans: Destination network
+     Total hops 
