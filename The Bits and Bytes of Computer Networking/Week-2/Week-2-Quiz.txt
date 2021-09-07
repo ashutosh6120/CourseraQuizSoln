@@ -1,0 +1,61 @@
+The Network Layer
+
+
+1)  The entirety of a packet at one layer becoming the payload section at another layer is known as ________.
+Ans:  encapsulation
+
+
+2)  A network device that knows how to forward data along to other networks is known as a ______.
+Ans:  rrouter
+
+
+3)  Interior gateway protocols are used by routers in order to share information within a single ________.
+Ans:  autonomous system
+
+
+4)  There are ____ octets in an IP address.
+Ans:  4
+
+
+5)  In binary, 1 +1 = _____.
+Ans:  10
+
+
+6)  Why do entries in a local Address Resolution Protocol (ARP) table expire after a short amount of time?
+Ans:  To account for network changes
+
+
+7)  What protocol communicates data between routers representing the edges of autonomous systems?
+Ans:  
+
+
+8)  On a Local Area Network, or LAN, what identification do nodes use to communicate with each other internally?
+Ans:  
+
+
+9)  Which number cannot be represented by eight bits of data?
+Ans:  436
+
+
+10)  What is the process of taking a single IP datagram and splitting it up into several smaller datagrams called?
+Ans:  Fragmentation
+
+
+11)  What protocol is used to discover the hardware address of a node with a certain IP address?
+Ans:  ARP table
+
+
+12)  What is the process of taking a large network and splitting it up into many individual and smaller subnetworks called?
+Ans:  subnetting
+
+
+13)  What is the term for the place one network ends and another begins?
+Ans:  Demarcation point
+
+
+14)  How many possible host IDs do you always lose per network?
+Ans:  2
+
+
+15)  How many bits long is a Autonomous System Number (ASN)?
+Ans:  32
